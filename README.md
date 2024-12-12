@@ -1,16 +1,44 @@
-## Hi there 👋
+# 💻 About Me  
 
-<!--
-**ComposeKarAman/ComposeKarAman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## **👋 Hi, I’m Aman!**  
+- 🌟 I'm a passionate developer and tech enthusiast.  
+- 🎨 I love experimenting with glitch-effect designs and coding vibrant user interfaces.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## **🔧 Skills & Tools**  
+### **Languages**  
+- Kotlin (Primary)  
+- Java  
+- Python  
+
+### **Development Tools**  
+- Android Studio (specializing in Jetpack Compose)  
+- Git & GitHub  
+- Visual Studio Code  
+
+### **Technologies**  
+- Object-Oriented Programming (OOP)  
+- Computer Networks  
+- UI/UX Prototyping  
+
+---
+
+## **🌱 Learning Goals**  
+- Mastering advanced **Jetpack Compose** techniques.  
+- Contributing to **open-source projects**.  
+- Exploring **game development frameworks**.  
+
+---
+
+## **⚡ Fun Facts**  
+- Favorite color: Blue with glitch effects! 🌌  
+- Organized events like Engineers Day and Diwali Carnival 🎉.  
+- Big fan of high-protein vegetarian Indian recipes 🍲.  
+
+---
+
+## **📫 Connect with Me**  
+- GitHub: [@aman](https://github.com/ComposeKarAman)  
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/aman-sharmaaa/)  
+- Email: amanbhardwaj1307@gmail.com  
