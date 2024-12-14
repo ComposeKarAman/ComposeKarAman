@@ -2,7 +2,7 @@
 
 ## **👋 Hi, I’m Aman!**  
 - 🌟 I'm a passionate developer and tech enthusiast.  
-- 🎨 I love experimenting with glitch-effect designs and coding vibrant user interfaces.  
+- 🎨 I'm currently learning UI / UX desing and logic handling in andoid using jetpack compose.
 
 ---
 
@@ -20,7 +20,8 @@
 
 ### **Technologies**  
 - Object-Oriented Programming (OOP)  
-- UI/UX Prototyping  
+- UI/UX Prototyping
+- DSA 
 
 ---
 
